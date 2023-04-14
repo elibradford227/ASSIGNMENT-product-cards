@@ -1,0 +1,73 @@
+
+body {
+  background-color: red;
+}
+
+
+.wrapper {
+  margin: 0 auto;
+  width: 50%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.row {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,108,9,1) 35%, rgba(0,212,255,1) 100%);
+  border-radius: 40px;
+  padding: 20px;
+}
+
+.card {
+  height: 1000px;
+  position: relative;
+}
+
+img {
+  height: 300px;
+}
+
+.cyborgimg {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.ravenimg {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+.starfireimg {
+width: 50%;
+margin-top: 10px;
+margin-left: 55px;
+}
+
+.title {
+  border: 1px solid lightblue;
+}
+
+.availability {
+  color: yellow;
+  background-color: gray;
+  display: flex;
+  justify-content: center;
+  margin-left: -17px;
+  margin-right: -17px;
+}
+
+h6 {
+  color: red;
+  text-transform: uppercase;
+}
+
+footer {
+  color: yellow;
+  text-transform: uppercase;
+  background-color: gray;
+  margin-left: -17px;
+  margin-right: -17px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+}
